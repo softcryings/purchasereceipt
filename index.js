@@ -65,7 +65,7 @@ const PAYMENT_METHODS = [
     { name: "Apple Credit", emoji: "<:apple:1477203898023280730>" },
     { name: "Gift Card", emoji: "<:giftcard:1477148273658564791>" },
     { name: "Rewarble Giftcard", emoji: "<:rewarble:1477203677403025479>" },
-    { name: "Store Credit", emoji: "<:cash:1278031309129777266>" }
+    { name: "Store Credit", emoji: "<:cash:1477455402903011386>" }
 ];
 
 function randomPayment() {
